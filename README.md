@@ -16,7 +16,7 @@ If you could choose one part of your work on these documents to revise, what wou
 
 How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 
-	***
+	Considering the user's needs when designing software is crucial because they are your audience. Their experience must be satisfactory in order for your application to succeeed. In this design I felt that the users needed an experience with low latency and minimal memory usage.
 	
 
 How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
